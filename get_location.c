@@ -40,4 +40,3 @@ char *m_environ()
 	}
 	return (NULL);
 }
-
